@@ -2,7 +2,7 @@
 [Desktop Entry]
 Name=Android Notifier
 Name[tr]=Andoid Bildirici
-Icon=/usr/share/icons/android-notifier-desktop.png
+Icon=/usr/share/pixmaps/android-notifier-desktop.png
 Exec=/usr/bin/android-notifier-desktop
 Terminal=false
 Type=Application
